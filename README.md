@@ -1,0 +1,2 @@
+# newnoteapp
+Amplify Proper demo
